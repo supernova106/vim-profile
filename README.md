@@ -1,7 +1,7 @@
 # vim-firefighter
 Curated list of useful vim techniques
 
-## Python development
+## VIM development
 
 setup VIM
 
@@ -52,4 +52,3 @@ vim
 PluginInstall
 ```
 
-## Go development
