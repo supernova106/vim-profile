@@ -1,4 +1,4 @@
-# vim-firefighter
+# vim-profile
 Curated list of useful vim techniques
 
 ## VIM development
